@@ -1,24 +1,15 @@
-# portfolio-projects
+# series
 
-![alt text](https://raw.githubusercontent.com/pabloagn/digital-assets/master/portfolio-projects-cover-image.jpg "Portfolio Projects Cover Image")
+![alt text](https://pabloagn.com/wp-content/uploads/2023/04/series-cover-image.jpg "Series Cover Image")
 
 ## About
-Here you will find a list of all my projects & collaborations. Projects are ordered descending by publish date. The start date & end date refer to the actual project design & execution.
-
-Keep in mind that this section refers to my personal portfolio; thus projects included are not explained step-by-step. If you’d like to build your own project using guidance, you can head to the [guided-projects](https://github.com/pabloagn/guided-projects) repo.
+Here you will find collections of Blogs, Deep Dives, Guided Projects, Portfolio Projects, and Documentation. Series consist of post groupings having similar features or characteristics. They are a way to better organize posts by broader topics. 
 
 ## Table of Contents
-1. [Computer Science](https://github.com/pabloagn/portfolio-projects/tree/master/computer-science)
-	1. [A Task Manager Written in Rust](https://github.com/pabloagn/portfolio-projects/blob/master/computer-science/a-task-manager-written-in-rust/a-task-manager-written-in-rust.md)
-2. [Content Management Systems](https://github.com/pabloagn/portfolio-projects/tree/master/content-management-systems)
-	1. [Website Assets](https://github.com/pabloagn/portfolio-projects/tree/master/content-management-systems/website-assets)
-3. [Data Science](https://github.com/pabloagn/portfolio-projects/tree/master/data-science)
-	1. [Sentiment Analysis With Python](https://github.com/pabloagn/portfolio-projects/blob/master/data-science/sentiment-analysis-with-python/sentiment-analysis-with-python.md)
-4. [Probability & Statistics](https://github.com/pabloagn/portfolio-projects/tree/master/probability-and-statistics)
-	1. [Markov Chains Toolbox](https://github.com/pabloagn/portfolio-projects/blob/master/probability-and-statistics/markov-chains-toolbox/markov-chains-toolbox.md)
+1. Programming for Beginners
 
 ## Website
-You can also directly consult the [Portfolio Projects](https://pabloagn.com/portfolio/) page on my website.
+You can also directly consult the [Series](https://pabloagn.com/series/) page on my website.
 If you have any questions, suggestions or requests, contact me directly using the [Contact Form](https://pabloagn.com/contact/).
 
 ## License
