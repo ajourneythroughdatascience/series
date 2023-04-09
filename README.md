@@ -7,7 +7,12 @@ Here you will find collections of Blogs, Deep Dives, Guided Projects, Portfolio 
 
 ## Table of Contents
 - [Data Science Fundamentals](https://github.com/pabloagn/series/tree/master/data-science-fundamentals)
+- [Intermediate Programming](https://github.com/pabloagn/series/tree/master/intermediate-programming)
+- [Linux Fundamentals](https://github.com/pabloagn/series/tree/master/linux-fundamentals)
+- [Machine Learning Fundamentals](https://github.com/pabloagn/series/tree/master/machine-learning-fundamentals)
 - [Programming Fundamentals](https://github.com/pabloagn/series/tree/master/programming-fundamentals)
+- [Writing Better Code](https://github.com/pabloagn/series/tree/master/writing-better-code)
+
 
 ## Website
 You can also directly consult the [Series](https://pabloagn.com/series/) page on my website.
