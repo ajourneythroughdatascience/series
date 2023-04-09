@@ -6,7 +6,7 @@
 Here you will find collections of Blogs, Deep Dives, Guided Projects, Portfolio Projects, and Documentation. Series consist of post groupings having similar features or characteristics. They are a way to better organize posts by broader topics. 
 
 ## Table of Contents
-1. [Programming for Beginners](https://github.com/pabloagn/series/tree/master/programming-for-beginners)
+1. [Programming Fundamentals](https://github.com/pabloagn/series/tree/master/programming-fundamentals)
 
 ## Website
 You can also directly consult the [Series](https://pabloagn.com/series/) page on my website.
